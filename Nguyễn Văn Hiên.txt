@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+Im Nguyễn Văn Hiên
+=======
 Im Nguyễn Văn Hiên
 alooooooo
+>>>>>>> origin/develope
